@@ -13,7 +13,9 @@ Video-based learning resources for bioinformatics are still scarce. Some of them
 
 **Become a supporting member**: be a part of Asia Pacific bioinformatics community. Find out more about us on our [website](http://www.apbionet.org/).
 
-**Share your expertise**: if you are passionate about sharing bioinformatics-related expertise and skills to the community, we welcome you to contribute a talk/demo/tutorial/workshop to APBioNetTalks. Please help complete this [form](https://forms.gle/SAVsiaLFCidhykY8A).
+**Share your expertise**: if you are passionate about sharing bioinformatics-related expertise and skills to the community, we welcome you to contribute a talk/demo/tutorial/workshop to APBioNetTalks. Please help complete this [form](https://forms.gle/SAVsiaLFCidhykY8A), which would capture all the relevant information we need. You can make multiple submissions if you are keen to contribute more.
+
+We are committed to providing a welcoming and inspiring platform for all. Please follow our [code of conduct] (https://github.com/hzahroh/APBioNetTalks/blob/main/CODE_OF_CONDUCT.md) in all kind of activities related to APBioNetTalks.
 
 
 
