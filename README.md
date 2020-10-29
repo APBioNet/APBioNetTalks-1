@@ -5,7 +5,7 @@ This program is a part of Asia Pacific Bioinformatics Network ([APBioNet](https:
 
 Video-based learning resources for bioinformatics are still scarce. Some of them are not available in English. If available, they are not free. Even if they are free, they usually only cover the introduction or very basic discussions. While most of the specific and intermediate-to-advanced discussions or skills are not accessible. This hampers the potential use of bioinformatics in solving complex biological problems. Using APBioNetTalks, we plan to solve this problem by providing open access video-based bioinformatics learning resources for the public.
 
-##How to Get Involved##:
+## How to Get Involved:
 
 **Let us know what you think**: share your thoughts on our roadmap and services via [email](secretariat@apbionet.org), [Twitter](https://twitter.com/APBioNetorg), [Facebook](https://web.facebook.com/apbionet) or by creating an issue in this repository.
 
