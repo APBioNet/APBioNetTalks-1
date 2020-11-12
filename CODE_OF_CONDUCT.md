@@ -1,4 +1,4 @@
-# Citizen Code of Conduct
+# APBioNetTalks' Code of Conduct
 
 ## 1. Purpose
 
@@ -53,7 +53,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 6. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify APBioNetTalks coordinator or APBioNet secretariat as soon as possible. secretariat@apbionet.org; z.hilyatuz@gmail.com (program coordinator).
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify APBioNetTalks coordinator or APBioNet secretariat as soon as possible via secretariat@apbionet.org.
 
 
 ## 7. Addressing Grievances
@@ -69,7 +69,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-secretariat@apbionet.org; z.hilyatuz@gmail.com (program coordinator)
+secretariat@apbionet.org
 
 ## 11. License and attribution
 
